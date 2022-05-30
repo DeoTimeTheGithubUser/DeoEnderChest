@@ -1,0 +1,9 @@
+name: DeoEnderChest
+main: me.deotime.deoenderchest.PluginDeoEnderChest
+version: 1.0.0
+commands:
+  enderchest:
+    aliases:
+      - ec
+    usage: /enderchest
+    description: Opens the ender chest
